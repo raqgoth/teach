@@ -28,7 +28,7 @@ teachers need a place where they can post about lesson plans and education and s
 ***
 
 ### WireFrames
-
+***
 ![image](https://user-images.githubusercontent.com/71895033/99436935-bede7480-28df-11eb-8274-42812e672932.png)
 
 ***
