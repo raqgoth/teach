@@ -1,70 +1,84 @@
-# Getting Started with Create React App
+# TeachWorld    
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## The Engaging Social Media for Busy Teachers
 
-## Available Scripts
+## November 18, 2020
 
-In the project directory, you can run:
+### Raquel Gothardt 
 
-### `npm start`
+[GitHub](https://github.com/raqgoth)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+***
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Overview 
+teachers need a place where they can post about lesson plans and education and school, and comment on each other posts, and get info about different lesson plans and learning theories/articles/information/resources
 
-### `npm test`
+***
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Technologies used 
 
-### `npm run build`
+* React
+* Express
+* Node 
+* HTML/CSS/Javascript
+* Mongoose 
+* MongoDB
+* Bootstrap
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+***
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### WireFrames
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![image](https://user-images.githubusercontent.com/71895033/99436935-bede7480-28df-11eb-8274-42812e672932.png)
 
-### `npm run eject`
+***
+![image](https://user-images.githubusercontent.com/71895033/99437406-6e1b4b80-28e0-11eb-994b-17a245be475e.png)
+***
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+***
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![image](https://user-images.githubusercontent.com/71895033/99437592-af136000-28e0-11eb-9392-dc6ca57e53ee.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+***
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Getting Started
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+users will identify themselves wirth a username, and start making posts about lessons.
+ Users can also search lesson plans and posts about a specific subject and a specific grade.
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+***
 
-### Analyzing the Bundle Size
+### Future Updates/Post MVP /Planned Improvements /Stretch Goals
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- [ ] links to other resource websites
+- [ ] add more lesson plans, learning experiences for each subject
+- [ ] add like option
+- [ ] responsive design
+- [ ] add auth 
 
-### Making a Progressive Web App
+***
+#### user stories 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+* user will be able to create posts, update posts, delete posts, and/or comment on  other users posts.
 
-### Advanced Configuration
+* the user will be able to post lesson plans, resources, videos, pictures, all free of charge
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+* the user will be able to get input from a wide community of teachers
 
-### Deployment
+* the user will be able to be a part of the world of teachers, special ed teachers, ENL teachers alike
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+* users will be able to search by topic different lesson plans, or learning experiences for all different ages and grades.
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Trello profile link
+https://trello.com/b/xvpSfb4k/teachworld
+
+***
+### Credits
+Bootstrap  
+
+Moment  
